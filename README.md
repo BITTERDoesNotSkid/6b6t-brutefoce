@@ -1,0 +1,1 @@
+how to use 6b6t bruteforce how this works is that you go to username.txt then type the username you want to bruteforce login must be a cracked account and then you open main.exe and then if your lucky the password gets stored into output.txt and it can maybe take up to 5 hours
